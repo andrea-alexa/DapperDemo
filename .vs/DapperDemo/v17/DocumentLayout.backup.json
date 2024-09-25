@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{F89191E7-CF14-48C4-B3CC-560902BAF133}|DapperDemo\\DapperDemo.csproj|solutionrelative:dapperdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D62CF06-4444-49A3-BCBF-FA73D976F16D}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\andre\\onedrive\\documentos\\programacion2\\dapperdemo\\accesodatos\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D62CF06-4444-49A3-BCBF-FA73D976F16D}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F89191E7-CF14-48C4-B3CC-560902BAF133}|DapperDemo\\DapperDemo.csproj|c:\\users\\andre\\onedrive\\documentos\\programacion2\\dapperdemo\\dapperdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F89191E7-CF14-48C4-B3CC-560902BAF133}|DapperDemo\\DapperDemo.csproj|solutionrelative:dapperdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D62CF06-4444-49A3-BCBF-FA73D976F16D}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\andre\\onedrive\\documentos\\programacion2\\dapperdemo\\accesodatos\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D62CF06-4444-49A3-BCBF-FA73D976F16D}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D62CF06-4444-49A3-BCBF-FA73D976F16D}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\andre\\onedrive\\documentos\\programacion2\\dapperdemo\\accesodatos\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,24 +30,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 289,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\Programacion2\\DapperDemo\\DapperDemo\\Form1.cs",
-              "RelativeDocumentMoniker": "DapperDemo\\Form1.cs",
-              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\Programacion2\\DapperDemo\\DapperDemo\\Form1.cs*",
-              "RelativeToolTip": "DapperDemo\\Form1.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T04:34:14.453Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -59,13 +46,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\Programacion2\\DapperDemo\\DapperDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "DapperDemo\\Form1.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\Programacion2\\DapperDemo\\DapperDemo\\Form1.cs*",
+              "RelativeToolTip": "DapperDemo\\Form1.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T04:34:14.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CustomerRepository.cs",
               "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\Programacion2\\DapperDemo\\AccesoDatos\\CustomerRepository.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\CustomerRepository.cs",
               "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\Programacion2\\DapperDemo\\AccesoDatos\\CustomerRepository.cs*",
               "RelativeToolTip": "AccesoDatos\\CustomerRepository.cs*",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAwFQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T04:18:54.162Z",
               "EditorCaption": ""
@@ -91,14 +91,14 @@
               "RelativeDocumentMoniker": "AccesoDatos\\DataBase.cs",
               "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\Programacion2\\DapperDemo\\AccesoDatos\\DataBase.cs",
               "RelativeToolTip": "AccesoDatos\\DataBase.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T04:14:20.915Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\Programacion2\\DapperDemo\\DapperDemo\\Form1.cs",
               "RelativeDocumentMoniker": "DapperDemo\\Form1.cs",

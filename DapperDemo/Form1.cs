@@ -27,7 +27,28 @@ namespace DapperDemo
 
         private void btnObtenerID_Click(object sender, EventArgs e)
         {
+            var cliente = customerR.ObtenerPorID(txtObtenerID.Text);
+            dgvCustomers.DataSource = new List<Customers> { cliente };
+        }
 
+        private void btnInsertar_Click(object sender, EventArgs e)
+        {
+            var nuevoCliente = CrearCliente();
+            var insertado = customerR.insertarCliente(nuevoCliente);
+            MessageBox.Show($"{insertado} registros insertados");
+        }
+
+        private Customers CrearCliente()
+        {
+            var nuevo = new Customers
+            {
+                CustomerID = txtCustomerID.Text,
+                CompanyName = txtCompanyName.Text,
+                ContactName = txtContactName.Text,
+                ContactTitle = txtContactTitle.Text,
+                Address = txtAddress.Text,
+            };
+            return nuevo;
         }
     }
 }
