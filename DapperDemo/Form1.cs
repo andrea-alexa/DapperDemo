@@ -50,5 +50,11 @@ namespace DapperDemo
             };
             return nuevo;
         }
+
+        private void btnEliminar_Click(object sender, EventArgs e)
+        {
+            var eliminado = customerR.EliminarCliente(txtCustomerID.Text);
+            MessageBox.Show("Filas eliminadas = " + eliminado);
+        }
     }
 }
