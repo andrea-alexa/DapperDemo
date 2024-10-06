@@ -7,3 +7,12 @@ C:\Users\andre\OneDrive\Documentos\Programacion2\DapperDemo\AccesoDatos\obj\Debu
 C:\Users\andre\OneDrive\Documentos\Programacion2\DapperDemo\AccesoDatos\obj\Debug\AccesoDa.B2719C34.Up2Date
 C:\Users\andre\OneDrive\Documentos\Programacion2\DapperDemo\AccesoDatos\obj\Debug\AccesoDatos.dll
 C:\Users\andre\OneDrive\Documentos\Programacion2\DapperDemo\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\andre\Documents\Programacion2\DapperDemo\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\andre\Documents\Programacion2\DapperDemo\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\andre\Documents\Programacion2\DapperDemo\AccesoDatos\bin\Debug\Dapper.dll
+C:\Users\andre\Documents\Programacion2\DapperDemo\AccesoDatos\bin\Debug\Dapper.xml
+C:\Users\andre\Documents\Programacion2\DapperDemo\AccesoDatos\obj\Debug\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\Programacion2\DapperDemo\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Programacion2\DapperDemo\AccesoDatos\obj\Debug\AccesoDa.B2719C34.Up2Date
+C:\Users\andre\Documents\Programacion2\DapperDemo\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\andre\Documents\Programacion2\DapperDemo\AccesoDatos\obj\Debug\AccesoDatos.pdb
